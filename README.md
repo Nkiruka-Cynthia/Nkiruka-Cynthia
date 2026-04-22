@@ -45,12 +45,12 @@ My wet lab foundation, PCR, gel electrophoresis, microbial DNA analysis, MRSA (m
 
 ## Featured Project
 
-### 🧬 Microbiome Data Analysis — GlobalPatterns
+### Microbiome Data Analysis — GlobalPatterns
 > Exploring microbial community structure across soil, ocean, skin, feces & freshwater
 
 **Methods used:**
-- Bray-Curtis PCoA — community structure across environments
-- Shannon alpha diversity — within-sample diversity comparison
+- Bray-Curtis PCoA; community structure across environments
+- Shannon alpha diversity; within-sample diversity comparison
 - Phylum-level taxonomic composition
 - Phylogenetic analysis (Chlamydiae)
 
