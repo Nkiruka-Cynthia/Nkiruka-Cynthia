@@ -62,12 +62,12 @@ Inspired by my daily work with **BugSigDB** and **Microbiome Digest**, Microbiom
 
 ---
 
-### 📊 Microbiome Data Analysis — GlobalPatterns
+### Microbiome Data Analysis - GlobalPatterns
 > Exploring microbial community structure across soil, ocean, skin, feces & freshwater
 
 **Methods used:**
-- Bray-Curtis PCoA — community structure across environments
-- Shannon alpha diversity — within-sample diversity comparison
+- Bray-Curtis PCoA; community structure across environments
+- Shannon alpha diversity; within sample diversity comparison
 - Phylum-level taxonomic composition
 - Phylogenetic analysis (Chlamydiae)
 
@@ -80,7 +80,7 @@ Inspired by my daily work with **BugSigDB** and **Microbiome Digest**, Microbiom
 
 ## Currently
 
-- 🌱 Expanding my bioinformatics toolkit — QIIME2, DADA2, AI/ML and Nextflow
+- 🌱 Expanding my bioinformatics toolkit - QIIME2, DADA2, AI/ML and Nextflow
 - 🤝 Co-developing a RAG-powered microbiome literature assistant with a BugSigDB collaborator
 - 🔍 Actively seeking **PhD opportunities** in microbial bioinformatics
 - 📖 Contributing to open science via BugSigDB curation
