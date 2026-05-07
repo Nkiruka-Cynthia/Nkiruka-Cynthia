@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I am Nkiruka 👋</h1>
-
 <p align="center">
   <em>Microbiologist → Computational Biologist · Nigeria</em>
 </p>
@@ -10,7 +9,7 @@
 
 I am a trained microbiologist making a deliberate transition into **microbial bioinformatics** building reproducible, open-science workflows at the intersection of microbial ecology, genomics, and data science.
 
-My wet lab foundation, PCR, gel electrophoresis, microbial DNA analysis, MRSA (mecA gene), EBV seroprevalence now informs how I think about biological data; where it comes from, what it means, and how to communicate it clearly.
+My wet lab foundation, PCR, gel electrophoresis, microbial DNA analysis, MRSA (mecA gene), EBV seroprevalence now informs how I think about biological data: where it comes from, what it means, and how to communicate it clearly.
 
 - 🔬 **Research Assistant** · Peace Lab, Federal University Lokoja
 - 📦 **Data Curator** · [BugSigDB](https://bugsigdb.org) ([@waldronlab](https://github.com/waldronlab) · Bioconductor)
@@ -28,6 +27,7 @@ My wet lab foundation, PCR, gel electrophoresis, microbial DNA analysis, MRSA (m
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Bioinformatics**
 
@@ -36,6 +36,12 @@ My wet lab foundation, PCR, gel electrophoresis, microbial DNA analysis, MRSA (m
 ![vegan](https://img.shields.io/badge/vegan-Ecology-green?style=flat)
 ![ggtree](https://img.shields.io/badge/ggtree-Phylogenetics-purple?style=flat)
 
+**AI & App Development**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![PartyRock](https://img.shields.io/badge/Amazon_PartyRock-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
 **Wet Lab**
 
 ![PCR](https://img.shields.io/badge/PCR-Molecular_Biology-red?style=flat)
@@ -43,14 +49,25 @@ My wet lab foundation, PCR, gel electrophoresis, microbial DNA analysis, MRSA (m
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### Microbiome Data Analysis — GlobalPatterns
+### MicrobiomeCurator - AI App for Microbiome Research
+> An AI-powered app built specifically for microbiome researchers and curators
+
+Inspired by my daily work with **BugSigDB** and **Microbiome Digest**, MicrobiomeCurator streamlines literature review and curation workflows. Paste the abstract, methods, and results of any microbiome paper and the app extracts taxa, flags cautions, and generates structured curation-ready summaries without hallucinating.
+
+**Built with:** Amazon PartyRock (AWS AI & ML Scholars Program · Udacity)
+
+[![Launch App](https://img.shields.io/badge/Launch_App-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://partyrock.aws/u/Nkiruka/WdVh1r4i2/MicrobiomeCurator)
+
+---
+
+### 📊 Microbiome Data Analysis — GlobalPatterns
 > Exploring microbial community structure across soil, ocean, skin, feces & freshwater
 
 **Methods used:**
-- Bray-Curtis PCoA; community structure across environments
-- Shannon alpha diversity; within-sample diversity comparison
+- Bray-Curtis PCoA — community structure across environments
+- Shannon alpha diversity — within-sample diversity comparison
 - Phylum-level taxonomic composition
 - Phylogenetic analysis (Chlamydiae)
 
@@ -63,10 +80,11 @@ My wet lab foundation, PCR, gel electrophoresis, microbial DNA analysis, MRSA (m
 
 ## Currently
 
-- 🌱 Expanding my bioinformatics toolkit — QIIME2, DADA2, and Nextflow next
-- 🔍 Actively seeking **PhD opportunities** in microbial bioinformatics 
-- 🤝 Open to **research collaborations** in microbiome and microbial genomics
+- 🌱 Expanding my bioinformatics toolkit — QIIME2, DADA2, AI/ML and Nextflow
+- 🤝 Co-developing a RAG-powered microbiome literature assistant with a BugSigDB collaborator
+- 🔍 Actively seeking **PhD opportunities** in microbial bioinformatics
 - 📖 Contributing to open science via BugSigDB curation
+- 🌍 Open to **research collaborations** in microbiome and microbial genomics
 
 ---
 
