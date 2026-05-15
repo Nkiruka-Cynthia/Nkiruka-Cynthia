@@ -28,6 +28,7 @@ My wet lab foundation, PCR, gel electrophoresis, microbial DNA analysis, MRSA (m
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=apachegroovy&logoColor=white)
 
 **Bioinformatics**
 
@@ -35,6 +36,15 @@ My wet lab foundation, PCR, gel electrophoresis, microbial DNA analysis, MRSA (m
 ![ggplot2](https://img.shields.io/badge/ggplot2-Visualization-orange?style=flat)
 ![vegan](https://img.shields.io/badge/vegan-Ecology-green?style=flat)
 ![ggtree](https://img.shields.io/badge/ggtree-Phylogenetics-purple?style=flat)
+![Nextflow](https://img.shields.io/badge/Nextflow-Pipeline-1BBC9B?style=flat&logo=nextflow&logoColor=white)
+
+**Machine Learning & Statistics**
+
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-Clustering-9B59B6?style=flat)
+![Hierarchical Clustering](https://img.shields.io/badge/Hierarchical_Clustering-Ward.D2-8E44AD?style=flat)
+![PCoA](https://img.shields.io/badge/PCoA-Ordination-2980B9?style=flat)
+![Beta Diversity](https://img.shields.io/badge/Beta_Diversity-Bray--Curtis-E67E22?style=flat)
+![Dimensionality Reduction](https://img.shields.io/badge/Dimensionality_Reduction-cmdscale-1ABC9C?style=flat)
 
 **AI & App Development**
 
@@ -78,10 +88,30 @@ Inspired by my daily work with **BugSigDB** and **Microbiome Digest**, Microbiom
 
 ---
 
+### HMPv13 Unsupervised Learning - Human Microbiome Project
+> Clustering human body sites by microbial composition without label information
+
+An end-to-end unsupervised machine learning analysis of 3,285 samples from 15 body 
+sites using the Human Microbiome Project V1–V3 dataset. The algorithm recovered major 
+ecological groupings; gut, skin, vaginal, oral purely from microbial composition, 
+with feces achieving 97.6% clustering purity.
+
+**Methods used:**
+- Bray-Curtis beta diversity; 3,285 × 3,285 dissimilarity matrix
+- PCoA ordination; 2D projection of community structure
+- Ward.D2 hierarchical clustering; k = 15 body-site clusters
+- Custom purity metric; unsupervised ML evaluation against ground truth
+
+**Tools:** R · phyloseq · vegan · ggplot2 · here
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nkiruka-Cynthia/hmpv13-microbiome-analysis)
+[![HTML Report](https://img.shields.io/badge/Full_Report-HTML-blue?style=flat)](https://nkiruka-cynthia.github.io/hmpv13-microbiome-analysis/reports/hmpv13_analysis.html)
+
+---
+
 ## Currently
 
-- 🌱 Expanding my bioinformatics toolkit - QIIME2, DADA2, AI/ML and Nextflow
-- 🤝 Co-developing a RAG-powered microbiome literature assistant with a BugSigDB collaborator
+- ✅ **Nextflow certified** - completed Nextflow training and passed certification
 - 🔍 Actively seeking **PhD opportunities** in microbial bioinformatics
 - 📖 Contributing to open science via BugSigDB curation
 - 🌍 Open to **research collaborations** in microbiome and microbial genomics
