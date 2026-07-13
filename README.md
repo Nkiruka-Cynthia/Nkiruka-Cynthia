@@ -1,86 +1,73 @@
-<h1 align="center">Hi, I am Nkiruka 👋</h1>
+<h1 align="center">Nkiruka Cynthia Efenji</h1>
 <p align="center">
-  <em>Microbiologist → Computational Biologist · Nigeria</em>
+  <em>Microbial Bioinformatician · Nextflow Ambassador · Nigeria</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nkirucynthiaefenji"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/nkii_cy"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/></a>
+  <a href="mailto:nkirukaefenji@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://seqera.io/"><img src="https://img.shields.io/badge/Nextflow_Ambassador-1BBC9B?style=flat&logo=nextflow&logoColor=white"/></a>
 </p>
 
 ---
 
 ## About Me
 
-I am a trained microbiologist making a deliberate transition into **microbial bioinformatics** building reproducible, open-science workflows at the intersection of microbial ecology, genomics, and data science.
+I am a **microbial bioinformatician** working at the intersection of genomics, microbiome data science, and open science. I hold a **B.Sc. in Microbiology (UNILAG)** and an **M.Sc. in Microbiology (ABU Zaria)**, and I build reproducible, scalable bioinformatics workflows that make complex microbiome and genomics data interpretable and reusable.
 
-My wet lab foundation, PCR, gel electrophoresis, microbial DNA analysis, MRSA (mecA gene), EBV seroprevalence now informs how I think about biological data: where it comes from, what it means, and how to communicate it clearly.
-
-- 🔬 **Research Assistant** · Peace Lab, Federal University Lokoja
-- 📦 **Data Curator** · [BugSigDB](https://bugsigdb.org) ([@waldronlab](https://github.com/waldronlab) · Bioconductor)
-- ✍️ **Science Communicator** · [Microbiome Digest](https://microbiomedigest.com)
-- 🎯 **Focus:** Microbial genomics · Microbiome analysis · Reproducible research
-- 📬 **Open to:** PhD opportunities and research collaborations
+My wet lab foundation in PCR, microbial DNA analysis, MRSA (mecA gene), EBV seroprevalence, informs how I think about biological data; where it comes from, what it means, and how to communicate it clearly.
 
 ---
 
-## Skills & Tools
+## What I Do
 
-**Languages & OS**
+ **Nextflow Ambassador** · [Seqera](https://seqera.io/)
+> Promoting reproducible, scalable bioinformatics workflows and supporting the global Nextflow community.
 
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=apachegroovy&logoColor=white)
+ **Bioinformatics Instructor** · [STaiMIC](https://github.com/STaiMIC), Italy
+> Designing and delivering hands-on nf-core/sarek and nf-core/ampliseq training to an international audience.
 
-**Bioinformatics**
+ **Data Curator** · [BugSigDB](https://bugsigdb.org) (Bioconductor / Waldron Lab)
+> Standardising high-dimensional microbiome signatures for global research use.
 
-![phyloseq](https://img.shields.io/badge/phyloseq-Microbiome-blue?style=flat)
-![ggplot2](https://img.shields.io/badge/ggplot2-Visualization-orange?style=flat)
-![vegan](https://img.shields.io/badge/vegan-Ecology-green?style=flat)
-![ggtree](https://img.shields.io/badge/ggtree-Phylogenetics-purple?style=flat)
-![Nextflow](https://img.shields.io/badge/Nextflow-Pipeline-1BBC9B?style=flat&logo=nextflow&logoColor=white)
+ **Science Communicator** · [Microbiome Digest](https://microbiomedigest.com)
+> Making the latest microbiome research accessible to the global scientific community.
 
-**Machine Learning & Statistics**
-
-![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-Clustering-9B59B6?style=flat)
-![Hierarchical Clustering](https://img.shields.io/badge/Hierarchical_Clustering-Ward.D2-8E44AD?style=flat)
-![PCoA](https://img.shields.io/badge/PCoA-Ordination-2980B9?style=flat)
-![Beta Diversity](https://img.shields.io/badge/Beta_Diversity-Bray--Curtis-E67E22?style=flat)
-![Dimensionality Reduction](https://img.shields.io/badge/Dimensionality_Reduction-cmdscale-1ABC9C?style=flat)
-
-**AI & App Development**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![PartyRock](https://img.shields.io/badge/Amazon_PartyRock-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-**Wet Lab**
-
-![PCR](https://img.shields.io/badge/PCR-Molecular_Biology-red?style=flat)
-![Gel Electrophoresis](https://img.shields.io/badge/Gel_Electrophoresis-DNA_Analysis-darkred?style=flat)
+ **Research Assistant** · Peace Lab, Federal University Lokoja
+> Supporting advanced research pipelines and mentoring students in computational biology.
 
 ---
 
 ## Featured Projects
 
-### MicrobiomeCurator - AI App for Microbiome Research
-> An AI-powered app built specifically for microbiome researchers and curators
+### HMPv13 Unsupervised ML - Human Microbiome Project
+> Clustering 3,285 samples across 15 body sites without label information
 
-Inspired by my daily work with **BugSigDB** and **Microbiome Digest**, MicrobiomeCurator streamlines literature review and curation workflows. Paste the abstract, methods, and results of any microbiome paper and the app extracts taxa, flags cautions, and generates structured curation-ready summaries without hallucinating.
+End-to-end unsupervised machine learning analysis of the HMP V1–V3 dataset. The algorithm recovered major ecological groupings — gut, skin, vaginal, oral — purely from microbial composition, with fecal samples achieving **97.6% clustering purity**.
 
-**Built with:** Amazon PartyRock (AWS AI & ML Scholars Program · Udacity)
+**Methods:** Bray-Curtis beta diversity · PCoA ordination · Ward.D2 hierarchical clustering · Custom purity metric  
+**Tools:** R · phyloseq · vegan · ggplot2
 
-[![Launch App](https://img.shields.io/badge/Launch_App-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://partyrock.aws/u/Nkiruka/WdVh1r4i2/MicrobiomeCurator)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nkiruka-Cynthia/hmpv13-microbiome-analysis)
+[![HTML Report](https://img.shields.io/badge/Full_Report-HTML-blue?style=flat)](https://nkiruka-cynthia.github.io/hmpv13-microbiome-analysis/reports/hmpv13_analysis.html)
 
 ---
 
-### Microbiome Data Analysis - GlobalPatterns
-> Exploring microbial community structure across soil, ocean, skin, feces & freshwater
+### Supervised ML - Pediatric IBD Microbiome Classification
+> Predicting IBD disease states from gut microbiome profiles
 
-**Methods used:**
-- Bray-Curtis PCoA; community structure across environments
-- Shannon alpha diversity; within sample diversity comparison
-- Phylum-level taxonomic composition
-- Phylogenetic analysis (Chlamydiae)
+Random Forest classification on the RISK_CCFA pediatric gut microbiome dataset using tidymodels/ranger in R.
 
+**Methods:** Random Forest · tidymodels · ranger · Cross-validation  
+**Tools:** R · tidymodels · ggplot2 · phyloseq
+
+---
+
+### GlobalPatterns - Microbial Community Structure
+> Exploring microbial ecology across soil, ocean, skin, feces & freshwater
+
+**Methods:** Bray-Curtis PCoA · Shannon alpha diversity · Phylum-level taxonomic composition · Phylogenetic analysis  
 **Tools:** R · phyloseq · ggplot2 · vegan · ggtree
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nkiruka-Cynthia/microbiome-learning-journey)
@@ -88,39 +75,65 @@ Inspired by my daily work with **BugSigDB** and **Microbiome Digest**, Microbiom
 
 ---
 
-### HMPv13 Unsupervised Learning - Human Microbiome Project
-> Clustering human body sites by microbial composition without label information
+### MicrobiomeCurator - AI App for Microbiome Research
+> AI powered literature curation tool for microbiome researchers
 
-An end-to-end unsupervised machine learning analysis of 3,285 samples from 15 body 
-sites using the Human Microbiome Project V1–V3 dataset. The algorithm recovered major 
-ecological groupings; gut, skin, vaginal, oral purely from microbial composition, 
-with feces achieving 97.6% clustering purity.
+Built with Amazon PartyRock (AWS AI & ML Scholars Program · Udacity). Paste any microbiome paper abstract and the app extracts taxa, flags methodological cautions, and generates structured curation-ready summaries.
 
-**Methods used:**
-- Bray-Curtis beta diversity; 3,285 × 3,285 dissimilarity matrix
-- PCoA ordination; 2D projection of community structure
-- Ward.D2 hierarchical clustering; k = 15 body-site clusters
-- Custom purity metric; unsupervised ML evaluation against ground truth
+[![Launch App](https://img.shields.io/badge/Launch_App-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://partyrock.aws/u/Nkiruka/WdVh1r4i2/MicrobiomeCurator)
 
-**Tools:** R · phyloseq · vegan · ggplot2 · here
+---
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nkiruka-Cynthia/hmpv13-microbiome-analysis)
-[![HTML Report](https://img.shields.io/badge/Full_Report-HTML-blue?style=flat)](https://nkiruka-cynthia.github.io/hmpv13-microbiome-analysis/reports/hmpv13_analysis.html)
+## Technical Stack
+
+**Languages & Shell**
+
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-1BBC9B?style=flat&logo=nextflow&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=apachegroovy&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**Bioinformatics Ecosystems**
+
+![nf-core](https://img.shields.io/badge/nf--core-Pipelines-1BBC9B?style=flat)
+![phyloseq](https://img.shields.io/badge/phyloseq-Microbiome-blue?style=flat)
+![DADA2](https://img.shields.io/badge/DADA2-Amplicon-green?style=flat)
+![QIIME2](https://img.shields.io/badge/QIIME2-16S-purple?style=flat)
+![vegan](https://img.shields.io/badge/vegan-Ecology-green?style=flat)
+![ggtree](https://img.shields.io/badge/ggtree-Phylogenetics-purple?style=flat)
+
+**Machine Learning & Data Science**
+
+![tidymodels](https://img.shields.io/badge/tidymodels-ML_Framework-E67E22?style=flat)
+![Random Forest](https://img.shields.io/badge/Random_Forest-ranger-8E44AD?style=flat)
+![PCoA](https://img.shields.io/badge/PCoA-Ordination-2980B9?style=flat)
+![Clustering](https://img.shields.io/badge/Hierarchical_Clustering-Ward.D2-9B59B6?style=flat)
+![ggplot2](https://img.shields.io/badge/ggplot2-Visualization-orange?style=flat)
+
+**Certifications**
+
+![Nextflow Run](https://img.shields.io/badge/Certified-Nextflow_Run-1BBC9B?style=flat)
+![Hello Nextflow](https://img.shields.io/badge/Certified-Hello_Nextflow-1BBC9B?style=flat)
+![Hello nf-core](https://img.shields.io/badge/Certified-Hello_nf--core-1BBC9B?style=flat)
+![Nextflow for Genomics](https://img.shields.io/badge/Certified-Nextflow_for_Genomics-1BBC9B?style=flat)
 
 ---
 
 ## Currently
 
-- ✅ **Nextflow certified** - completed Nextflow training and passed certification
-- 🔍 Actively seeking **PhD opportunities** in microbial bioinformatics
-- 📖 Contributing to open science via BugSigDB curation
-- 🌍 Open to **research collaborations** in microbiome and microbial genomics
+-  **Nextflow Ambassador** @ [Seqera](https://seqera.io/) - building community, one pipeline at a time
+-  **Bioinformatics Instructor** @ [STaiMIC](https://github.com/STaiMIC) - teaching nf-core/sarek and nf-core/ampliseq to an international cohort
+-  **BugSigDB Curator** @ [Bioconductor](https://www.bioconductor.org/) - standardising microbiome signatures for global reuse
+-  Actively seeking a **PhD position** in microbial bioinformatics and metagenomics
 
 ---
 
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nkirucynthiaefenji)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/nkii_cy)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nkiruka-Cynthia)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nkirukaefenji@gmail.com)
+<p align="center">
+  <em>Open to PhD opportunities · research collaborations · open science partnerships</em><br/>
+  <a href="https://www.linkedin.com/in/nkirucynthiaefenji"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/nkii_cy"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/></a>
+  <a href="https://github.com/Nkiruka-Cynthia"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="mailto:nkirukaefenji@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
