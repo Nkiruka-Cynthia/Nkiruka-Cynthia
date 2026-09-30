@@ -25,8 +25,11 @@ My wet lab foundation in PCR, microbial DNA analysis, MRSA (mecA gene), EBV sero
  **Nextflow Ambassador** · [Seqera](https://seqera.io/)
 > Promoting reproducible, scalable bioinformatics workflows and supporting the global Nextflow community.
 
- **Bioinformatics Instructor** · [STaiMIC](https://github.com/STaiMIC), Italy
-> Designing and delivering hands-on nf-core/sarek and nf-core/ampliseq training to an international audience.
+ **Co-founder** · Nextflow Nigeria Community
+> Building a community of researchers and scientists across Nigeria through outreach, hands-on bioinformatics training, and collaborative genomics projects that lead to publications.
+
+ **Teaching Assistant** · African Microbiome Institute, [Stellenbosch University](https://www.su.ac.za), South Africa
+> Supporting the Introduction to Metagenomics and Quality Control module and leading instruction on Nextflow and nf-core/ampliseq for African researchers.
 
  **Data Curator** · [BugSigDB](https://bugsigdb.org) (Bioconductor / Waldron Lab)
 > Standardising high-dimensional microbiome signatures for global research use.
@@ -34,8 +37,11 @@ My wet lab foundation in PCR, microbial DNA analysis, MRSA (mecA gene), EBV sero
  **Science Communicator** · [Microbiome Digest](https://microbiomedigest.com)
 > Making the latest microbiome research accessible to the global scientific community.
 
- **Research Assistant** · Peace Lab, Federal University Lokoja
+ **Research Scientist** · Peace Lab, Federal University Lokoja
 > Supporting advanced research pipelines and mentoring students in computational biology.
+
+ **Bioinformatics Nextflow Training Programme Lead** · [STaiMIC](https://github.com/STaiMIC), Italy (June–August 2026)
+> Designed and delivered hands-on nf-core/sarek and nf-core/ampliseq training to an international audience.
 
 ---
 
