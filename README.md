@@ -25,7 +25,7 @@ My wet lab foundation in PCR, microbial DNA analysis, MRSA (mecA gene), EBV sero
  **Nextflow Ambassador** · [Seqera](https://seqera.io/)
 > Promoting reproducible, scalable bioinformatics workflows and supporting the global Nextflow community.
 
- **Co-founder** · Nextflow Nigeria Community
+ **Co-founder** · [Nigerian Nextflow Community](https://github.com/Nigerian-Nextflow-Community)
 > Building a community of researchers and scientists across Nigeria through outreach, hands-on bioinformatics training, and collaborative genomics projects that lead to publications.
 
  **Teaching Assistant** · African Microbiome Institute, [Stellenbosch University](https://www.su.ac.za), South Africa
