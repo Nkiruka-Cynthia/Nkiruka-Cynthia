@@ -44,23 +44,14 @@ My wet lab foundation in PCR, microbial DNA analysis, MRSA (mecA gene), EBV sero
 ### HMPv13 Unsupervised ML - Human Microbiome Project
 > Clustering 3,285 samples across 15 body sites without label information
 
-End-to-end unsupervised machine learning analysis of the HMP V1–V3 dataset. The algorithm recovered major ecological groupings — gut, skin, vaginal, oral — purely from microbial composition, with fecal samples achieving **97.6% clustering purity**.
+End-to-end unsupervised machine learning analysis of the HMP V1–V3 dataset. PAM clustering on Bray-Curtis distances isolated feces (**98.1% purity**) and tooth (94.2%), while sites within the same body region often shared clusters. The three vaginal sites looked compact on the PCoA but scored only 44–45% purity, showing that visual compactness on an ordination does not guarantee quantitative separation.
 
-**Methods:** Bray-Curtis beta diversity · PCoA ordination · Ward.D2 hierarchical clustering · Custom purity metric  
-**Tools:** R · phyloseq · vegan · ggplot2
+**Methods:** Bray-Curtis beta diversity · PCoA ordination · PAM (k-medoids) clustering · Custom purity metric  
+**Tools:** R · phyloseq · vegan · cluster · ggplot2  
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nkiruka-Cynthia/hmpv13-microbiome-analysis)
 [![HTML Report](https://img.shields.io/badge/Full_Report-HTML-blue?style=flat)](https://nkiruka-cynthia.github.io/hmpv13-microbiome-analysis/reports/hmpv13_analysis.html)
 
----
-
-### Supervised ML - Pediatric IBD Microbiome Classification
-> Predicting IBD disease states from gut microbiome profiles
-
-Random Forest classification on the RISK_CCFA pediatric gut microbiome dataset using tidymodels/ranger in R.
-
-**Methods:** Random Forest · tidymodels · ranger · Cross-validation  
-**Tools:** R · tidymodels · ggplot2 · phyloseq
 
 ---
 
